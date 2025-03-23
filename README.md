@@ -14,3 +14,5 @@ This repository contains the code used to process the newly released JFK files. 
   - `ocrmac` for OCR processing
   - `python-dotenv` for environment variable management
 
+### PS
+* this is a great way to acadently spend $200 on anthropic AI models ;)
